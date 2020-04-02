@@ -1,0 +1,381 @@
+----------------------------------------------------------------------
+7069	2436	3066	2422	22986	17465	3784	7950	2587	17200	1976	38747	1375	2016	160	24	2415	
+3786	586	290	1999	22183	19840	2339	10537	600	22806	1029	19151	1150	2908	246	1533	74	
+12578	2006	10439	17183	21023	72977	4828	7552	2101	15979	1346	191140	2514	1529	135	160	208	
+8037	30	1413	57	56	2364	98	24	0	50	0	7992	0	0	8	0	8	
+13556	1217	7214	1127	30025	39919	7885	8172	7582	20004	2258	101108	284	12891	1177	480	1705	
+9664	471	112	600	6544	17327	3191	11691	143	1279	212	1029	401	18	26	0	12	
+10386	997	3788	408	13114	17487	11791	1369	872	4016	1017	26192	9	716	7	0	36	
+206	51	330	241	3447	2346	1188	1798	131	944	487	38503	236	653	0	0	47	
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Countries Mean and Variance:
+----------------------------------------------------------------------
+0  Mean 		 = 7863.41, 		 Variance = 		1.0297e+08
+1  Mean 		 = 6532.76, 		 Variance = 		7.03498e+07
+2  Mean 		 = 21394, 		 Variance = 		2.0846e+09
+3  Mean 		 = 1184.53, 		 Variance = 		6.60104e+06
+4  Mean 		 = 15094.4, 		 Variance = 		5.79154e+08
+5  Mean 		 = 3101.18, 		 Variance = 		2.49015e+07
+6  Mean 		 = 5423.82, 		 Variance = 		5.5671e+07
+7  Mean 		 = 2976.94, 		 Variance = 		7.97468e+07
+----------------------------------------------------------------------
+Wines Mean and Variance:
+----------------------------------------------------------------------
+0  Mean 		 = 8160.25, 		 Variance = 		1.7432e+07
+1  Mean 		 = 974.25, 		 Variance = 		676083
+2  Mean 		 = 3331.5, 		 Variance = 		1.22718e+07
+3  Mean 		 = 3004.62, 		 Variance = 		2.93442e+07
+4  Mean 		 = 14922.2, 		 Variance = 		1.01151e+08
+5  Mean 		 = 23715.6, 		 Variance = 		4.66936e+08
+6  Mean 		 = 4388, 		 Variance = 		1.27334e+07
+7  Mean 		 = 6136.62, 		 Variance = 		1.73209e+07
+8  Mean 		 = 1752, 		 Variance = 		5.64943e+06
+9  Mean 		 = 10284.8, 		 Variance = 		8.04864e+07
+10  Mean 		 = 1040.62, 		 Variance = 		565862
+11  Mean 		 = 52982.8, 		 Variance = 		3.55018e+09
+12  Mean 		 = 746.125, 		 Variance = 		672117
+13  Mean 		 = 2591.38, 		 Variance = 		1.60318e+07
+14  Mean 		 = 219.875, 		 Variance = 		137962
+15  Mean 		 = 274.625, 		 Variance = 		250414
+16  Mean 		 = 563.125, 		 Variance = 		781853
+----------------------------------------------------------------------
+ Countires Correlation:
+----------------------------------------------------------------------
+Correlation[0, 1] = 0.86755
+Correlation[0, 2] = 0.868403
+Correlation[0, 3] = 0.579169
+Correlation[0, 4] = 0.940505
+Correlation[0, 5] = 0.322983
+Correlation[0, 6] = 0.866664
+Correlation[0, 7] = 0.814924
+Correlation[1, 2] = 0.576102
+Correlation[1, 3] = 0.279091
+Correlation[1, 4] = 0.693877
+Correlation[1, 5] = 0.510131
+Correlation[1, 6] = 0.673173
+Correlation[1, 7] = 0.453276
+Correlation[2, 3] = 0.696428
+Correlation[2, 4] = 0.96939
+Correlation[2, 5] = 0.188622
+Correlation[2, 6] = 0.846185
+Correlation[2, 7] = 0.947528
+Correlation[3, 4] = 0.686302
+Correlation[3, 5] = 0.301146
+Correlation[3, 6] = 0.713274
+Correlation[3, 7] = 0.655961
+Correlation[4, 5] = 0.234006
+Correlation[4, 6] = 0.89131
+Correlation[4, 7] = 0.926611
+Correlation[5, 6] = 0.458885
+Correlation[5, 7] = -0.0338908
+Correlation[6, 7] = 0.746076
+----------------------------------------------------------------------
+ Countires Covariance:
+----------------------------------------------------------------------
+Correlation[0, 1] = 7.38382e+07
+Correlation[0, 2] = 4.02336e+08
+Correlation[0, 3] = 1.50997e+07
+Correlation[0, 4] = 2.29675e+08
+Correlation[0, 5] = 1.63549e+07
+Correlation[0, 6] = 6.56176e+07
+Correlation[0, 7] = 7.38463e+07
+Correlation[1, 2] = 2.20619e+08
+Correlation[1, 3] = 6.01429e+06
+Correlation[1, 4] = 1.40059e+08
+Correlation[1, 5] = 2.13514e+07
+Correlation[1, 6] = 4.21282e+07
+Correlation[1, 7] = 3.39508e+07
+Correlation[2, 3] = 8.16947e+07
+Correlation[2, 4] = 1.06514e+09
+Correlation[2, 5] = 4.29751e+07
+Correlation[2, 6] = 2.88265e+08
+Correlation[2, 7] = 3.86332e+08
+Correlation[3, 4] = 4.24345e+07
+Correlation[3, 5] = 3.86098e+06
+Correlation[3, 6] = 1.36734e+07
+Correlation[3, 7] = 1.50502e+07
+Correlation[4, 5] = 2.8102e+07
+Correlation[4, 6] = 1.60044e+08
+Correlation[4, 7] = 1.99137e+08
+Correlation[5, 6] = 1.70856e+07
+Correlation[5, 7] = -1.51026e+06
+Correlation[6, 7] = 4.97112e+07
+----------------------------------------------------------------------
+Wines Correlation:
+----------------------------------------------------------------------
+Correlation[0, 1] = 0.463334
+Correlation[0, 2] = 0.736936
+Correlation[0, 3] = 0.389588
+Correlation[0, 4] = 0.429757
+Correlation[0, 5] = 0.662227
+Correlation[0, 6] = 0.596484
+Correlation[0, 7] = 0.208708
+Correlation[0, 8] = 0.577636
+Correlation[0, 9] = 0.211395
+Correlation[0, 10] = 0.405208
+Correlation[0, 11] = 0.510764
+Correlation[0, 12] = 0.177246
+Correlation[0, 13] = 0.432321
+Correlation[0, 14] = 0.46349
+Correlation[0, 15] = -0.205517
+Correlation[0, 16] = 0.233049
+Correlation[1, 2] = 0.663172
+Correlation[1, 3] = 0.566819
+Correlation[1, 4] = 0.721559
+Correlation[1, 5] = 0.633814
+Correlation[1, 6] = 0.383064
+Correlation[1, 7] = 0.356894
+Correlation[1, 8] = 0.472265
+Correlation[1, 9] = 0.612723
+Correlation[1, 10] = 0.786673
+Correlation[1, 11] = 0.581573
+Correlation[1, 12] = 0.705888
+Correlation[1, 13] = 0.225115
+Correlation[1, 14] = 0.2222
+Correlation[1, 15] = -0.0846085
+Correlation[1, 16] = 0.700388
+Correlation[2, 3] = 0.772025
+Correlation[2, 4] = 0.592091
+Correlation[2, 5] = 0.907078
+Correlation[2, 6] = 0.481633
+Correlation[2, 7] = 0.0753431
+Correlation[2, 8] = 0.621558
+Correlation[2, 9] = 0.445827
+Correlation[2, 10] = 0.616611
+Correlation[2, 11] = 0.934404
+Correlation[2, 12] = 0.570728
+Correlation[2, 13] = 0.444214
+Correlation[2, 14] = 0.446008
+Correlation[2, 15] = -0.118952
+Correlation[2, 16] = 0.284627
+Correlation[3, 4] = 0.336165
+Correlation[3, 5] = 0.885366
+Correlation[3, 6] = 0.0467491
+Correlation[3, 7] = 0.22065
+Correlation[3, 8] = 0.101665
+Correlation[3, 9] = 0.359531
+Correlation[3, 10] = 0.250372
+Correlation[3, 11] = 0.882193
+Correlation[3, 12] = 0.887007
+Correlation[3, 13] = -0.0595434
+Correlation[3, 14] = -0.0460203
+Correlation[3, 15] = -0.00868421
+Correlation[3, 16] = -0.0524417
+Correlation[4, 5] = 0.629313
+Correlation[4, 6] = 0.462856
+Correlation[4, 7] = 0.563497
+Correlation[4, 8] = 0.77529
+Correlation[4, 9] = 0.934194
+Correlation[4, 10] = 0.933761
+Correlation[4, 11] = 0.527319
+Correlation[4, 12] = 0.499979
+Correlation[4, 13] = 0.721545
+Correlation[4, 14] = 0.713615
+Correlation[4, 15] = 0.485552
+Correlation[4, 16] = 0.64948
+Correlation[5, 6] = 0.34298
+Correlation[5, 7] = 0.405522
+Correlation[5, 8] = 0.483619
+Correlation[5, 9] = 0.555138
+Correlation[5, 10] = 0.526441
+Correlation[5, 11] = 0.929553
+Correlation[5, 12] = 0.760159
+Correlation[5, 13] = 0.349336
+Correlation[5, 14] = 0.36424
+Correlation[5, 15] = 0.110606
+Correlation[5, 16] = 0.137483
+Correlation[6, 7] = -0.0354161
+Correlation[6, 8] = 0.44968
+Correlation[6, 9] = 0.175046
+Correlation[6, 10] = 0.507736
+Correlation[6, 11] = 0.241165
+Correlation[6, 12] = -0.0963998
+Correlation[6, 13] = 0.3654
+Correlation[6, 14] = 0.335843
+Correlation[6, 15] = -0.0984681
+Correlation[6, 16] = 0.178711
+Correlation[7, 8] = 0.275548
+Correlation[7, 9] = 0.597364
+Correlation[7, 10] = 0.352483
+Correlation[7, 11] = 0.149108
+Correlation[7, 12] = 0.470789
+Correlation[7, 13] = 0.290355
+Correlation[7, 14] = 0.325186
+Correlation[7, 15] = 0.479724
+Correlation[7, 16] = 0.275538
+Correlation[8, 9] = 0.604254
+Correlation[8, 10] = 0.844045
+Correlation[8, 11] = 0.498989
+Correlation[8, 12] = 0.0847236
+Correlation[8, 13] = 0.949684
+Correlation[8, 14] = 0.948248
+Correlation[8, 15] = 0.116472
+Correlation[8, 16] = 0.70199
+Correlation[9, 10] = 0.802494
+Correlation[9, 11] = 0.459251
+Correlation[9, 12] = 0.596725
+Correlation[9, 13] = 0.6041
+Correlation[9, 14] = 0.601504
+Correlation[9, 15] = 0.694336
+Correlation[9, 16] = 0.544073
+Correlation[10, 11] = 0.519768
+Correlation[10, 12] = 0.389788
+Correlation[10, 13] = 0.731202
+Correlation[10, 14] = 0.711707
+Correlation[10, 15] = 0.211801
+Correlation[10, 16] = 0.817878
+Correlation[11, 12] = 0.711446
+Correlation[11, 13] = 0.353654
+Correlation[11, 14] = 0.35468
+Correlation[11, 15] = -0.0293482
+Correlation[11, 16] = 0.169116
+Correlation[12, 13] = -0.0639362
+Correlation[12, 14] = -0.0514706
+Correlation[12, 15] = 0.211843
+Correlation[12, 16] = 0.184125
+Correlation[13, 14] = 0.997198
+Correlation[13, 15] = 0.327243
+Correlation[13, 16] = 0.556559
+Correlation[14, 15] = 0.3258
+Correlation[14, 16] = 0.5517
+Correlation[15, 16] = -0.0604842
+----------------------------------------------------------------------
+Wines Covariance:
+----------------------------------------------------------------------
+Covariance[0, 1] = 1.59063e+06
+Covariance[0, 2] = 1.07785e+07
+Covariance[0, 3] = 8.8113e+06
+Covariance[0, 4] = 1.8046e+07
+Covariance[0, 5] = 5.97461e+07
+Covariance[0, 6] = 8.88679e+06
+Covariance[0, 7] = 3.62659e+06
+Covariance[0, 8] = 5.73232e+06
+Covariance[0, 9] = 7.91826e+06
+Covariance[0, 10] = 1.27264e+06
+Covariance[0, 11] = 1.27063e+08
+Covariance[0, 12] = 606699
+Covariance[0, 13] = 7.22721e+06
+Covariance[0, 14] = 718778
+Covariance[0, 15] = -429389
+Covariance[0, 16] = 860365
+Covariance[1, 2] = 1.91021e+06
+Covariance[1, 3] = 2.52467e+06
+Covariance[1, 4] = 5.967e+06
+Covariance[1, 5] = 1.12614e+07
+Covariance[1, 6] = 1.12394e+06
+Covariance[1, 7] = 1.2213e+06
+Covariance[1, 8] = 922970
+Covariance[1, 9] = 4.51987e+06
+Covariance[1, 10] = 486575
+Covariance[1, 11] = 2.84924e+07
+Covariance[1, 12] = 475837
+Covariance[1, 13] = 741130
+Covariance[1, 14] = 67861.8
+Covariance[1, 15] = -34813.2
+Covariance[1, 16] = 509215
+Covariance[2, 3] = 1.46503e+07
+Covariance[2, 4] = 2.08606e+07
+Covariance[2, 5] = 6.86639e+07
+Covariance[2, 6] = 6.02065e+06
+Covariance[2, 7] = 1.09846e+06
+Covariance[2, 8] = 5.17534e+06
+Covariance[2, 9] = 1.40114e+07
+Covariance[2, 10] = 1.62488e+06
+Covariance[2, 11] = 1.95036e+08
+Covariance[2, 12] = 1.6391e+06
+Covariance[2, 13] = 6.23071e+06
+Covariance[2, 14] = 580333
+Covariance[2, 15] = -208524
+Covariance[2, 16] = 881644
+Covariance[3, 4] = 1.83146e+07
+Covariance[3, 5] = 1.03636e+08
+Covariance[3, 6] = 903662
+Covariance[3, 7] = 4.9745e+06
+Covariance[3, 8] = 1.30898e+06
+Covariance[3, 9] = 1.74726e+07
+Covariance[3, 10] = 1.02024e+06
+Covariance[3, 11] = 2.84741e+08
+Covariance[3, 12] = 3.93922e+06
+Covariance[3, 13] = -1.29147e+06
+Covariance[3, 14] = -92595.7
+Covariance[3, 15] = -23540.8
+Covariance[3, 16] = -251189
+Covariance[4, 5] = 1.36767e+08
+Covariance[4, 6] = 1.66113e+07
+Covariance[4, 7] = 2.35864e+07
+Covariance[4, 8] = 1.85332e+07
+Covariance[4, 9] = 8.42913e+07
+Covariance[4, 10] = 7.06441e+06
+Covariance[4, 11] = 3.15997e+08
+Covariance[4, 12] = 4.12248e+06
+Covariance[4, 13] = 2.90562e+07
+Covariance[4, 14] = 2.66581e+06
+Covariance[4, 15] = 2.44371e+06
+Covariance[4, 16] = 5.77581e+06
+Covariance[5, 6] = 2.64466e+07
+Covariance[5, 7] = 3.64693e+07
+Covariance[5, 8] = 2.4839e+07
+Covariance[5, 9] = 1.07619e+08
+Covariance[5, 10] = 8.55723e+06
+Covariance[5, 11] = 1.19682e+09
+Covariance[5, 12] = 1.34665e+07
+Covariance[5, 13] = 3.02247e+07
+Covariance[5, 14] = 2.92345e+06
+Covariance[5, 15] = 1.19601e+06
+Covariance[5, 16] = 2.62687e+06
+Covariance[6, 7] = -525966
+Covariance[6, 8] = 3.81397e+06
+Covariance[6, 9] = 5.60383e+06
+Covariance[6, 10] = 1.3629e+06
+Covariance[6, 11] = 5.12756e+07
+Covariance[6, 12] = -282014
+Covariance[6, 13] = 5.22073e+06
+Covariance[6, 14] = 445132
+Covariance[6, 15] = -175832
+Covariance[6, 16] = 563880
+Covariance[7, 8] = 2.72574e+06
+Covariance[7, 9] = 2.23041e+07
+Covariance[7, 10] = 1.10352e+06
+Covariance[7, 11] = 3.69752e+07
+Covariance[7, 12] = 1.60633e+06
+Covariance[7, 13] = 4.83843e+06
+Covariance[7, 14] = 502685
+Covariance[7, 15] = 999092
+Covariance[7, 16] = 1.01398e+06
+Covariance[8, 9] = 1.2885e+07
+Covariance[8, 10] = 1.50912e+06
+Covariance[8, 11] = 7.06674e+07
+Covariance[8, 12] = 165093
+Covariance[8, 13] = 9.03799e+06
+Covariance[8, 14] = 837153
+Covariance[8, 15] = 138533
+Covariance[8, 16] = 1.47535e+06
+Covariance[9, 10] = 5.41574e+06
+Covariance[9, 11] = 2.45491e+08
+Covariance[9, 12] = 4.38892e+06
+Covariance[9, 13] = 2.17e+07
+Covariance[9, 14] = 2.00438e+06
+Covariance[9, 15] = 3.11717e+06
+Covariance[9, 16] = 4.316e+06
+Covariance[10, 11] = 2.32965e+07
+Covariance[10, 12] = 240384
+Covariance[10, 13] = 2.20233e+06
+Covariance[10, 14] = 198855
+Covariance[10, 15] = 79728.5
+Covariance[10, 16] = 544009
+Covariance[11, 12] = 3.47528e+07
+Covariance[11, 13] = 8.43713e+07
+Covariance[11, 14] = 7.84951e+06
+Covariance[11, 15] = -875056
+Covariance[11, 16] = 8.90987e+06
+Covariance[12, 13] = -209875
+Covariance[12, 14] = -15673.4
+Covariance[12, 15] = 86909.2
+Covariance[12, 16] = 133474
+Covariance[13, 14] = 1.48304e+06
+Covariance[13, 15] = 655677
+Covariance[13, 16] = 1.97044e+06
+Covariance[14, 15] = 60556.6
+Covariance[14, 16] = 181195
+Covariance[15, 16] = -26763
